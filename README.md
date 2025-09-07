@@ -11,13 +11,9 @@ Interactive reef maps (Havelock, Neil, Jolly Buoy, etc.)
 
 🛠️ Tech Stack
 
-Python, Flask/FastAPI
+Python, FastAPI
 
-Scikit-learn / TensorFlow
-
-Folium, Plotly, Matplotlib
-
-MongoDB
+Scikit-learn & RandomForet Regressor model
 
 📊 Data Sources
 
