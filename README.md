@@ -11,9 +11,13 @@ Interactive reef maps (Havelock, Neil, Jolly Buoy, etc.)
 
 🛠️ Tech Stack
 
-Python, FastAPI
+Backend: FastAPI
 
-Scikit-learn & RandomForet Regressor model
+Frontend: Next.js
+
+ML: Scikit-Learn (Random Forest)
+
+Data: NOAA SST & marine heatwave data, or similar satellite sources
 
 📊 Data Sources
 
